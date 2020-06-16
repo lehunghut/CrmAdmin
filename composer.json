@@ -13,6 +13,9 @@
         "zizaco/entrust": "1.9.1",
         "spatie/laravel-backup": "^6.*"
     },
+    "require-dev": {
+        "lehunghut/CrmAdmin": "^1.0.1"
+    },
     "authors": [
         {
             "name": "Ganesh Bhosale",
