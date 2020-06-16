@@ -13,11 +13,6 @@
         "zizaco/entrust": "1.9.1",
         "spatie/laravel-backup": "^6.*"
     },
-    "extra": {
-        "branch-alias": {
-          "dev-master": "1.0-dev"
-        }
-    },
     "authors": [
         {
             "name": "Ganesh Bhosale",
